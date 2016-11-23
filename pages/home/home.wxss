@@ -1,0 +1,51 @@
+.swiper-tab{  
+    width: 100%;  
+    border-bottom: 2rpx solid #777777;  
+    text-align: center;  
+    line-height: 80rpx;}  
+.swiper-tab-list{  
+    font-size: 30rpx;  
+    display: inline-block;  
+    width: 33.33%;  
+    color: #777777;  
+}
+.on{ color: #da7c0c;  
+    border-bottom: 5rpx solid #da7c0c;}  
+.swiper-box{
+     display: block; 
+     height: 100%; 
+     width: 100%; 
+     overflow: hidden; 
+}  
+
+
+
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 30rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.item-name{
+    font-size: 10pt; 
+    margin: 20rpx;
+    font-weight:bold;
+    
+}
+.item-style{
+    font-size: 8pt; 
+    margin: 20rpx;
+    color:#888888;
+}
+.item-score{
+    float:right;
+    font-size: 10pt; 
+    color:gold;
+}
+.cover {
+    width: 110rpx;
+    height: 154rpx;
+    float:left;
+}

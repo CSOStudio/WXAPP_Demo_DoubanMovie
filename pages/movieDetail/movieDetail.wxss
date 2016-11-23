@@ -1,0 +1,54 @@
+.detail-background{
+    background:#F34D41;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 300rpx;
+}
+.cover {
+    margin: 5px;
+    width: 200rpx;
+    height: 280rpx;
+    float:left;
+   
+}
+
+.name{
+    margin-top: 5px;
+    color: snow;
+    font-size: 13pt; 
+    font-weight:bold;
+}
+
+.score{
+    margin-top: 10px;
+    color:#FFE000;
+    font-size: 13pt; 
+    font-weight:bold;
+}
+
+.style{
+    margin-top: 5px;
+    color: snow;
+    font-size: 10pt; 
+    font-weight:bold;
+}
+
+.summary{
+    margin: 10px;
+    color:black;
+    font-size: 10pt;
+    font-weight:bold;
+}
+
+.scroll-view_H{
+  white-space: nowrap;
+}
+.scroll-view-item{
+  height: 200px;
+}
+.scroll-view-item_H{
+  display: inline-block;
+  width: 100%;
+  height: 200px;
+}
+

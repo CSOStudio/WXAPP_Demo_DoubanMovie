@@ -1,0 +1,43 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+
+
+.enter{
+  color:black;
+  width:90%;
+  margin-top:10px;
+  font-size:10pt;
+  font-family:微软雅黑;
+}
+
+.button-hover {
+  background-color:pink;
+  color:snow;
+}
+
+
+/*.enter.other-button-hover {
+  background-color: hotpink;
+  margin-top: 10px;
+  color: #009900;
+  size:mini;
+}*/
